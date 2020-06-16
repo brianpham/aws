@@ -37,7 +37,6 @@ def get_ec2_instance(name, region):
 
     return ec2_info
 
-# get_ec2_instance('TestPocMarket')
 def main():
 
     '''
